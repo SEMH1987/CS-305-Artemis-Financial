@@ -1,4 +1,4 @@
-# CS-305-Artemis-Financial-
+# CS-305-Artemis-Financial
 Artemis Financial Practices for Secure Software Report
 Artemis Financial is a company that builds financial software. Their main concern was whether their code had vulnerabilities that could be exploited. My main job was to go through their software, identify any weak points, and make it more secure. I did this by adhering to sound and secure coding practices.
 
